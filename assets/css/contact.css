@@ -101,7 +101,14 @@ body {
     font-size: 18px;
     color: #003865;
     font-family: Georgia, 'Times New Roman', Times, serif;
-   
+    background: #f8f9fa;
+    text-decoration: none;
+    text-align: center;  
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    background: #0062B1;
+    color: #f8f9fa;
 }
 
 
